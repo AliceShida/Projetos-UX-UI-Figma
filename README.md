@@ -17,5 +17,5 @@ Link: https://www.figma.com/design/9m34ti5q69wveXWYgohJ2A/Delivery?node-id=0-1&t
 Link: https://www.figma.com/design/RYd5ZjfqbjqnFqVhZv2b8V/HeadCare?node-id=0-1&t=qDmlHXqY7wu9tWjs-1
 
 - Desafios do saber - Projeto Interdisciplinar. Desenvolvi com meu grupo, páginas para um aplicativo que promove a educação de forma gamificada.
-Link: https://www.figma.com/design/ZORUK7NndLoAHPvjWzPvYr/Prot%C3%B3tipo-Telas?node-id=0-1&t=bWeB9xX7xIJKxq0T-1
+Link: https://www.figma.com/design/kARgTm0AgNQxPDOsVHRfU4/Desafios-do-Saber?node-id=0-1&t=U1lCuly44y7bYz33-1
 
