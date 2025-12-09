@@ -1,3 +1,6 @@
+#Hello! I am a software engineering student, and this is a space where I can explore and put all my creativity into practice.
+
+
 # Projetos-UX-UI-Figma
 
 Repositório para organização e apresentação de projetos de UX/UI desenvolvidos no Figma
