@@ -14,7 +14,7 @@ Desenvolvi telas para um sistema de delivery.
 Link: https://www.figma.com/design/9m34ti5q69wveXWYgohJ2A/Delivery?node-id=0-1&t=nFsN7CihU6aQ80k6-1
   
 - HeadCare – Projeto Interdisciplinar para a matéria de UX/UI. Desenvolvi com meu grupo, páginas para um site de atendimento psicológico gratuito para a comunidade.
-Link: https://www.figma.com/design/RYd5ZjfqbjqnFqVhZv2b8V/HeadCare?node-id=0-1&t=vqbxsAscYfWI392X-1
+Link: https://www.figma.com/design/RYd5ZjfqbjqnFqVhZv2b8V/HeadCare?node-id=0-1&t=qDmlHXqY7wu9tWjs-1
 
 - Desafios do saber - Projeto Interdisciplinar. Desenvolvi com meu grupo, páginas para um aplicativo que promove a educação de forma gamificada.
 Link: https://www.figma.com/design/ZORUK7NndLoAHPvjWzPvYr/Prot%C3%B3tipo-Telas?node-id=0-1&t=bWeB9xX7xIJKxq0T-1
