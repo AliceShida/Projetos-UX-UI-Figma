@@ -4,7 +4,7 @@
 Repositório para organização e apresentação de projetos de UX/UI desenvolvidos no Figma
 
 # Projetos
-- BI Mova Soluções Aéreas
+- BI Mova Soluções Aéreas - Projeto para desenvolvimento de painéis do BI de uma empresa de indenizações aéreas. (Estágio)
 Link: https://www.figma.com/design/pcR8KDwAOoUnWUooXHDjIg/Prot%C3%B3tipo-BI---Mova-Solu%C3%A7%C3%B5es-A%C3%A9reas?node-id=0-1&t=A51nxj4WTHocFgI7-1
 
 - Chef Online - Projeto prático do curso de UX/UI e Figma
